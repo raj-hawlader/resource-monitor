@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # modules/disk.sh
-# Disk helpers for htoppp
+# Disk helpers for system_monitor
 # Exposes:
 #  - get_disk_overview [interval_ms]  -> prints "READ_KBPS|WRITE_KBPS"
 #  - get_disk_bars [barlen] [max_kbps] -> prints two lines for read & write and a summary of top mounts
