@@ -3,7 +3,7 @@ Terminal-Based System Resource Monitor
 
 ---
 
-## Overview
+# Overview
 Resource Monitor is a lightweight, modular, terminal-based dashboard built using Bash.  
 It provides real-time monitoring of:
 
